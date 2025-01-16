@@ -1,7 +1,7 @@
 
 ![Javascript](https://img.shields.io/badge/Javascript-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
-![React](https://img.shields.io/badge/Reactjs-57a5e7)
+![React](https://img.shields.io/badge/React-57a5e7)
 ![Next.js](https://img.shields.io/badge/Nextjs-ea2845)  
 
 [![Woo's github stats](https://github-readme-stats.vercel.app/api?username=dev-woohyeok)](https://github.com/dev-woohyeok)
