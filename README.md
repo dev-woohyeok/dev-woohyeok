@@ -3,7 +3,6 @@
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
 ![React](https://img.shields.io/badge/Reactjs-57a5e7)
 ![Next.js](https://img.shields.io/badge/Nextjs-ea2845)  
-![Express.js](https://img.shields.io/badge/Express.js-37eab8)  
 
 [![Woo's github stats](https://github-readme-stats.vercel.app/api?username=dev-woohyeok)](https://github.com/dev-woohyeok)
 
