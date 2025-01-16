@@ -2,7 +2,7 @@
 # 💻 Tech Stack:
 ![javascript](https://img.shields.io/badge/Javascript-yellow)
 ![typescript](https://img.shields.io/badge/Typescript-blue)
-![Reactjs](https://img.shields.io/badge/Reactjs-9cf)
+![reactjs](https://img.shields.io/badge/Reactjs-white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
 ![Nextjs](https://img.shields.io/badge/nextjs-ea2845)  
 
