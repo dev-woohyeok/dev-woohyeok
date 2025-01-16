@@ -1,11 +1,21 @@
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-woohyeok&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-woohyeok&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![javascript](https://img.shields.io/badge/Javascript-yellow)
+![typescript](https://img.shields.io/badge/Typescript-blue)
+![Reactjs](https://img.shields.io/badge/Reactjs-9cf)
+![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
+![Nextjs](https://img.shields.io/badge/nextjs-ea2845)  
+
+[![Woo's github stats](https://github-readme-stats.vercel.app/api?username=dev-woohyeok)](https://github.com/dev-woohyeok)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-woohyeok&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![Blog](https://img.shields.io/badge/Blog-WooLog-lightgrey)](https://velog.io/@dev-woohyeok/posts)
+[![WhatILearnt](https://img.shields.io/badge/TIL-Woo's%20Today%20I%20Learnt-lightgrey)](https://aboard-particle-0d4.notion.site/16fee001a71580a087ebfa287082017d?pvs=4)
+[![Resume](https://img.shields.io/badge/Resume-KimWooHyeok's%20resume-lightgrey)]()  
+[![Instagram](https://img.shields.io/badge/Instagram-%40WooHyeok-E4405F?style=flat-square&logo=instagram&logoColor=white)]()
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
