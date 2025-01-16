@@ -1,11 +1,10 @@
 
-# 💻 Tech Stack:
 ![Javascript](https://img.shields.io/badge/Javascript-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
 ![Reactjs](https://img.shields.io/badge/Reactjs-9cf)
 ![Nextjs](https://img.shields.io/badge/Nextjs-ea2845)  
 
-[![Woo's github stats](https://github-readme-stats.vercel.app/api?username=dev-woohyeok)](https://github.com/dev-woohyeok)
+[![Woo's github stats](https://github-readme-stats.vercel.app/api?username=dev-woohyeok&include_all_commits=false)](https://github.com/dev-woohyeok)
 
 ---
 [![Blog](https://img.shields.io/badge/Blog-Woo's%20Log-lightgrey)](https://velog.io/@dev-woohyeok/posts)
